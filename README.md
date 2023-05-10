@@ -2,8 +2,8 @@
 AI card generator
 
 # Demo
-https://youtu.be/x8B3J4AxqOY
-https://youtu.be/MCFyIhdo6JU
+- https://youtu.be/x8B3J4AxqOY
+- https://youtu.be/MCFyIhdo6JU
 
 
 # Install
