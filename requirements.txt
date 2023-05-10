@@ -1,0 +1,8 @@
+diffusers==0.13.0.dev0
+gradio==3.16.2
+gtts==2.3.1
+openai==0.26.4
+Pillow==9.4.0
+requests==2.25.1
+torch==1.13.1+cu116
+gTTS==2.3.1
